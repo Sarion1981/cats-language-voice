@@ -28,7 +28,7 @@ EN:<br>
 <bold>Zukunftspläne / To-Do List</bold><br>
 /<p>
 
-<bol>Mitmachen / Contributing</bol><br
+<bol>Mitmachen / Contributing</bol><br>
 DE: Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.<br>
 EN: Contributions are welcome! Feel free to submit pull requests or open issues.<p>
 
