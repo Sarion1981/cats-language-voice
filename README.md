@@ -13,7 +13,8 @@ EN: This project aims to train AI models to record Cats sounds (voiced) and anal
 - Azure AI<p>
 
 <bold>Funktionen / Functions</bold><br>
-DE: - Erkennung von Katzengeräuschen / Miauen <br>
+DE:<br> 
+- Erkennung von Katzengeräuschen / Miauen <br>
 - Aufnehmen der Geräusche<br>
 - Analysieren der Geräusche<br>
 - Übersetzen soweit möglich damit es Menschen verstehen<p>
