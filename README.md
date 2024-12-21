@@ -1,40 +1,35 @@
-# cats-language-voice
+<bold># cats-language-voice</bol><p>
 
-DE: Ein Programm das einer KI erlaubt Katzengeräusche / Miauen aufzunehmen, zu analysieren und zu verstehen, danach wenn möglich zu übersetzen sodass es ein Mensch versteht.
-EN: A setup for an AI recording Cats voiced sounds and try to understand and translate them
+DE: Ein Programm das einer KI erlaubt Katzengeräusche / Miauen aufzunehmen, zu analysieren und zu verstehen, danach wenn möglich zu übersetzen sodass es ein Mensch versteht.<br
+EN: A setup for an AI recording Cats voiced sounds and try to understand and translate them<p>
 
 
-Ziel / Goal
-DE:
-Ein programm um eine KI zu trainieren Katzengeräusche und Miauen per Mikrofon aufzunehmen, zu analysieren und soweit es geht zu übersetzen.
-EN:
-This project aims to train AI models to record Cats sounds (voiced) and analyze them, as well as translate teir meaning for people, if possible.
+<bold>Ziel / Goal</bold><br>
+DE: Ein programm um eine KI zu trainieren Katzengeräusche und Miauen per Mikrofon aufzunehmen, zu analysieren und soweit es geht zu übersetzen.<br>
+EN: This project aims to train AI models to record Cats sounds (voiced) and analyze them, as well as translate teir meaning for people, if possible.<p>
 
-Technologien / Technologies
-Python
-Azure AI
+<bold>Technologien / Technologies</bold><br
+Python<br
+Azure AI<p>
 
-Funktionen / Functions
-DE:
-Erkennung von Katzengeräuschen / Miauen
-Aufnehmen der Geräusche
-Analysieren der Geräusche
-Übersetzen soweit möglich damit es Menschen verstehen
+<bold>Funktionen / Functions</bold><br>
+DE: - Erkennung von Katzengeräuschen / Miauen <br>
+- Aufnehmen der Geräusche<br>
+- Analysieren der Geräusche<br>
+- Übersetzen soweit möglich damit es Menschen verstehen<p>
 
-EN:
-Detect Cats voiced sounds
-Recording those sounds
-analyze these sounds
-translate the meaning so people can understand it better
+EN:<br>
+- detect Cats voiced sounds<br>
+- recording those sounds<br>
+- analyze these sounds<br>
+- translate the meaning so people can understand it better<p>
 
-Zukunftspläne / To-Do List
-/
+<bold>Zukunftspläne / To-Do List</bold><br>
+/<p>
 
-Mitmachen / Contributing
-DE:
-Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.
-EN:
-Contributions are welcome! Feel free to submit pull requests or open issues.
+<bol>Mitmachen / Contributing</bol><br
+DE: Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.<br>
+EN: Contributions are welcome! Feel free to submit pull requests or open issues.<p>
 
-Lizenz / License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<bol>Lizenz / License</bold><br>
+This project is licensed under the MIT License - see the LICENSE file for details.<p>
