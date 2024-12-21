@@ -9,8 +9,8 @@ DE: Ein programm um eine KI zu trainieren Katzengeräusche und Miauen per Mikrof
 EN: This project aims to train AI models to record Cats sounds (voiced) and analyze them, as well as translate teir meaning for people, if possible.<p>
 
 <bold>Technologien / Technologies</bold><br
-Python<br
-Azure AI<p>
+- Python<br>
+- Azure AI<p>
 
 <bold>Funktionen / Functions</bold><br>
 DE: - Erkennung von Katzengeräuschen / Miauen <br>
