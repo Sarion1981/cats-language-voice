@@ -1,6 +1,6 @@
 <bold># cats-language-voice</bol><p>
 
-DE: Ein Programm das einer KI erlaubt Katzengeräusche / Miauen aufzunehmen, zu analysieren und zu verstehen, danach wenn möglich zu übersetzen sodass es ein Mensch versteht.<br
+DE: Ein Programm das einer KI erlaubt Katzengeräusche / Miauen aufzunehmen, zu analysieren und zu verstehen, danach wenn möglich zu übersetzen sodass es ein Mensch versteht.<br>
 EN: A setup for an AI recording Cats voiced sounds and try to understand and translate them<p>
 
 
