@@ -8,7 +8,7 @@ EN: A setup for an AI recording Cats voiced sounds and try to understand and tra
 DE: Ein programm um eine KI zu trainieren Katzengeräusche und Miauen per Mikrofon aufzunehmen, zu analysieren und soweit es geht zu übersetzen.<br>
 EN: This project aims to train AI models to record Cats sounds (voiced) and analyze them, as well as translate teir meaning for people, if possible.<p>
 
-<bold>Technologien / Technologies</bold><br
+<bold>Technologien / Technologies</bold><br>
 - Python<br>
 - Azure AI<p>
 
